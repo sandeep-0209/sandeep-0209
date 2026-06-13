@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋, I'm Sandeep Keshri
 
-<!--
-**sandeep-0209/sandeep-0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a passionate Web Developer skilled in HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building responsive websites and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* MySQL
+* Git
+* GitHub
+* MVC Architecture
+
+## 📂 Projects
+
+### 🚗 Hire Me Car
+
+A fully responsive car rental website built using HTML, CSS, and JavaScript.
+
+**Features:**
+
+* Responsive Design
+* Modern UI
+* Car Listing Pages
+* Contact Form
+* Mobile Friendly
+
+### 🎨 Prizmaura
+
+A fully responsive business/portfolio website built using HTML, CSS, and JavaScript.
+
+**Features:**
+
+* Responsive Layout
+* Interactive UI
+* Clean Design
+* Cross Browser Support
+
+### 🎉 Yuva Event
+
+A responsive event management website built using HTML, CSS, and JavaScript.
+
+**Features:**
+
+* Event Information Pages
+* Registration Section
+* Responsive Design
+* User-Friendly Interface
+
+### 🎓 Student Management System (MVC)
+
+Built using PHP and MySQL following MVC Architecture.
+
+**Features:**
+
+* Login Authentication
+* Add Student
+* Edit Student
+* Delete Student
+* Session Management
+* MVC Pattern
+
+## 🌱 Currently Learning
+
+* Advanced PHP
+* REST API
+* Composer
+* Web Security
+* Laravel
+
+## 📫 Contact
+
+GitHub: https://github.com/sandeep-0209
+
+Thank you for visiting my profile!
