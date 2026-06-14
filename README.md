@@ -3,6 +3,9 @@
 ## 🚀 About Me
 
 💻 Full Stack Developer (PHP | MVC | MySQL)
+
+---
+
 I am a passionate Web Developer skilled in HTML, CSS, JavaScript, PHP, and MySQL. I enjoy building responsive websites and web applications.
 - Building real-world web applications
 - Focused on PHP MVC backend development
