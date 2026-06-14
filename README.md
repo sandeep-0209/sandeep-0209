@@ -64,12 +64,14 @@ Built using PHP and MySQL following MVC Architecture.
 
 **Features:**
 
-* Login Authentication
-* Add Student
-* Edit Student
-* Delete Student
-* Session Management
-* MVC Pattern
+* User Registration (Sign Up)
+* User Authentication (Login / Logout)
+* User Profile Management (Update Name & Email)
+* Dashboard Access after Login
+* Add, Edit, Delete Students
+* Manage Users and Students from Dashboard
+* MVC Architecture Implementation
+* Secure Database Handling (MySQL)
 
 ## 🌱 Currently Learning
 
