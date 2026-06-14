@@ -84,5 +84,7 @@ Built using PHP and MySQL following MVC Architecture.
 ## 📫 Contact
 
 GitHub: https://github.com/sandeep-0209
+Linkedin: https://linkedin.com/in/sandeep-keshri-300332368
+Portfolio: https://sandeep-0209.github.io/Sandeep-Portfolio/
 
 Thank you for visiting my profile!
